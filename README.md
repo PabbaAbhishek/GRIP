@@ -7,4 +7,4 @@ Packages or softwares required:
 * Matplotlib
 
 Using the data consisting student's number of study hours and scores, predicting the score for a student who would study for 9.5 hrs/day by deploying linear regression model.
-The model give a 92 percent accuracy when tested.
+The model gave a whooping 97 percent accuracy when tested.
